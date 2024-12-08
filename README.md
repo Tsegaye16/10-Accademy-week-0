@@ -77,8 +77,8 @@ This project involves performing Exploratory Data Analysis (EDA) on a dataset fr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EDA-for-Benin.git
-cd EDA-for-Benin
+git clone https://github.com/Tsegaye16/10-Accademy-week-0.git
+cd 10-Accademy-week-0
 ```
 
 ### 2. Set Up Python Environment
